@@ -1,11 +1,12 @@
-/* 
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
 
-*/
+.col{
+  font-size: 60px;     
+  padding: 20px 25px; 
+  margin: 5px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  box-shadow: inset 0 0 10px #222;
+  font-family: 'Times New Roman', Times, serif; 
+  font-weight: bold;
+}
